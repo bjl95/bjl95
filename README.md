@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Brian Ling
 - 👀 I’m interested in using technology to make people's lives better
 - 🌱 I’m currently learning OCaml
-- 💞️ I’m actively hunting for Software Engineering Internship
+- 💞️ I'm currently working on Path Finding Visualizer
 - 📫 How to reach me bjl95@cornell.edu
 
 <!---
