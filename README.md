@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Brian Ling
 - 👀 I’m interested in using technology to make people's lives better
-- 🌱 I’m currently learning HTML/CSS
+- 🌱 I’m currently learning JavaScript
 - 💞️ I'm currently working on Battleship
 - 📫 How to reach me bjl95@cornell.edu
 
