@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brian Ling
 - 👀 I’m interested in using technology to make people's lives better
-- 🌱 I'm currently working on Battleship
 - 💞️ I am currently looking for software engineering internship
 - 📫 How to reach me bjl95@cornell.edu
 
