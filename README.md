@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Brian Ling
-- 👀 I’m interested in using technology to make people's lives better
+- 👀 I’m interested in leveraging GenAI technologies to make people's lives better
 - 📫 How to reach me bjl95@cornell.edu
 
 <!---
